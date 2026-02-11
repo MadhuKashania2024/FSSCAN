@@ -9,7 +9,7 @@ In addition to the proposed FSSCAN model, this repository includes implementatio
 ## 🎯 Project Objectives
 
 - Accelerated MRI reconstruction using deep learning  
-- Comparison of proposed TEID-Net with SOTA methods  
+- Comparison of proposed FSSCAN with SOTA methods  
 - Ablation study for architecture analysis  
 - Proper handling of complex-valued MRI data  
 
@@ -38,3 +38,5 @@ The dataset subsets used for ablation studies (including **training**, and **val
 👉 Val : https://drive.google.com/drive/folders/1syxbiZyVPZcFCcw8q15TMIBSoTnOGlsL?usp=drive_link
 
 
+Checkpoints for different models are available on 
+https://drive.google.com/drive/folders/1z_NwT2KAzRrkOcIvtxjrlC90J-jAUhMr?usp=drive_link
