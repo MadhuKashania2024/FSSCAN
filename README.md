@@ -39,4 +39,4 @@ The dataset subsets used for ablation studies (including **training**, and **val
 
 
 Checkpoints for different models are available on 
-https://drive.google.com/drive/folders/1z_NwT2KAzRrkOcIvtxjrlC90J-jAUhMr?usp=drive_link
+https://drive.google.com/drive/folders/1qenp9ijyVZNWlp3j-O0FigkZnclKoZEM?usp=drive_link
